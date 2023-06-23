@@ -1,0 +1,15 @@
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\bin\Debug\net7.0\4_Timing _Test.exe
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\bin\Debug\net7.0\4_Timing _Test.deps.json
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\bin\Debug\net7.0\4_Timing _Test.runtimeconfig.json
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\bin\Debug\net7.0\4_Timing _Test.dll
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\bin\Debug\net7.0\4_Timing _Test.pdb
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\4_Timing _Test.csproj.AssemblyReference.cache
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\4_Timing _Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\4_Timing _Test.AssemblyInfoInputs.cache
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\4_Timing _Test.AssemblyInfo.cs
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\4_Timing _Test.csproj.CoreCompileInputs.cache
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\4_Timing _Test.dll
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\refint\4_Timing _Test.dll
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\4_Timing _Test.pdb
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\4_Timing _Test.genruntimeconfig.cache
+C:\Users\gnuno\Documents\Programacion\Programas\Estructuras_de_datos\4_Timing _Test\obj\Debug\net7.0\ref\4_Timing _Test.dll
